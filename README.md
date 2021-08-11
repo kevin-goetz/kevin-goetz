@@ -1,6 +1,7 @@
-## Hi there, I'm Kevin 👋
-I'm a Data Scientist based in Hamburg, Germany
-& curious to learn new things!  
+<img src="https://github.com/kevin-goetz/kevin-goetz/blob/main/header.png" align="center" alt="README Header" title="README Header"/>
+
+**I'm a Data Scientist based in Hamburg, Germany  
+& curious to learn new things!**
   
   
 ### Me in OOP:

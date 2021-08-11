@@ -1,4 +1,4 @@
-<img src="https://github.com/kevin-goetz/kevin-goetz/blob/main/Header_LinkedIn.PNG" height="300px" width="auto" align="center" alt="README Header" title="README Header"/>
+<img src="https://github.com/kevin-goetz/kevin-goetz/blob/main/Header_LinkedIn.PNG" height="350px" width="auto" align="center" alt="README Header" title="README Header"/>
 
 **I'm a Data Scientist based in Hamburg, Germany  
 & curious to learn new things!**

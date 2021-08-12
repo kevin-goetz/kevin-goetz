@@ -10,7 +10,7 @@
 class KevinG:
 
     def __init__(self):
-        self.username = 'keving'
+        self.username = 'kevin-goetz'
         self.name = 'Kevin Götz'
         self.linkedin = 'https://www.linkedin.com/in/kgötz'
         self.code = {

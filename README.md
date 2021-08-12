@@ -4,7 +4,7 @@
 & curious to learn new things!**
   
   
-### Me in OOP:
+### Me in OOP 🐍:
 
 ```python
 class KevinG:
@@ -15,7 +15,7 @@ class KevinG:
         self.linkedin = 'https://www.linkedin.com/in/kgötz'
         self.code = {
             'Python': ['Pandas', 'scikit-learn', 'NumPy', 'Matplotlib', 'Folium', 'SQLite3', 'Requests', 'BeatifulSoup', 'etc.'],
-            'SQL': ['PostgreSQL', 'MS SQL', 'Standard SQL'],
+            'SQL': ['PostgreSQL', 'MS SQL', 'Standard SQL']
         }
         self.rdbms = ['AWS Redshift Microsoft', 'SQL Server', 'Oracle']
         self.agile = ['Jira', 'Confluence']

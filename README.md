@@ -33,7 +33,7 @@ if __name__ == '__main__':
   
 ### :eyes: More about me:
 
-- 🌱 I studied Sports & Economics but that doesn't hold me back to learn new things like coding.  
+- 🌱 I have studied Sports & Economics but that doesn't hold me back to learn new things like coding.  
       Mark Twain said it best: **“Don't let schooling interfere with your education.”**
       
 - :star: Strengths: being curious, listening carefully, following my interests and learning continuously.

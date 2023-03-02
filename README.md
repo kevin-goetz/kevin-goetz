@@ -1,7 +1,6 @@
 <img src="https://github.com/kevin-goetz/kevin-goetz/blob/main/Header_LinkedIn.PNG" height="350px" width="auto" align="center" alt="README Header" title="README Header"/>
 
-**I'm a Data Scientist based in Hamburg, Germany  
-& curious to learn new things!**
+**I'm a Data Scientist based in Hamburg, Germany**
   
   
 ### Me in OOP 🐍:
@@ -11,18 +10,15 @@ class KevinG:
 
     def __init__(self):
         self.username = 'kevin-goetz'
-        self.name = 'Kevin Götz'
         self.linkedin = 'https://www.linkedin.com/in/kgötz'
         self.code = {
             'Python': ['Pandas', 'scikit-learn', 'NumPy', 'Matplotlib', 'Folium', 'SQLite3', 'Requests', 'BeatifulSoup', 'etc.'],
-            'SQL': ['PostgreSQL', 'MS SQL', 'Standard SQL']
+            'SQL': ['PostgreSQL', 'MS SQL', 'Standard SQL'],
+            'Shell': ['Zsh', 'Bash']
         }
-        self.rdbms = ['AWS Redshift Microsoft', 'SQL Server', 'Oracle']
+        self.rdbms = ['Google BigQuery', 'AWS Redshift', 'Microsoft SQL Server', 'IBM Oracle']
         self.agile = ['Jira', 'Confluence']
-        self.experience = ['Market Research', 'Business Intelligence', 'Sports & Economics']
-
-    def __str__(self):
-        return self.name
+        self.experience = ['E-Commerce', 'Market Research', 'Sports & Economics']
 
 
 if __name__ == '__main__':
@@ -36,9 +32,7 @@ if __name__ == '__main__':
 - 🌱 I have studied Sports & Economics but that doesn't hold me back to learn new things like coding.  
       Mark Twain said it best: **“Don't let schooling interfere with your education.”**
       
-- :star: Strengths: being curious, listening carefully, following my interests and learning continuously.
-      
-- 👯 I’m looking to apply my skills in a new company in Hamburg, Germany (I relocated). Hit me up! :point_down:  
+- :star: Strengths: being curious, listening carefully, following my interests and learning continuously. 
 
   
   
